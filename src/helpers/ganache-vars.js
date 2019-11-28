@@ -1,5 +1,5 @@
 module.exports = {
   BLOCK_GAS_LIMIT: 50e6,
   MNEMONIC:
-    'explain tackle mirror kit van hammer degree position ginger unfair soup bonus',
+    'myself chimney age media vacant tide earth wear slam speak cloud portion move vehicle someone luxury filter drill boil legal actress side famous vapor',
 }

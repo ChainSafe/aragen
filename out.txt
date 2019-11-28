@@ -1,0 +1,24 @@
+
+> @aragon/aragen@5.3.6 deploy /Users/gregmarkou/Jobs/code/github.com/ChainSafe/aragen
+> npm run deploy-base && npm run publish-client && npm run publish-core-apps && npm run publish-dao-templates && npm run publish-fundraising && npm run publish-open-enterprise
+
+
+> @aragon/aragen@5.3.6 deploy-base /Users/gregmarkou/Jobs/code/github.com/ChainSafe/aragen
+> scripts/deploy-base
+
+Make sure you are on an empty chain running with the default mnemonic
+Deploying ENS instance
+ENS address missmatch. Please restart ganache by running:
+npm run start-ganache
+
+> @aragon/aragen@5.3.6 deploy /Users/gregmarkou/Jobs/code/github.com/ChainSafe/aragen
+> npm run deploy-base && npm run publish-client && npm run publish-core-apps && npm run publish-dao-templates && npm run publish-fundraising && npm run publish-open-enterprise
+
+
+> @aragon/aragen@5.3.6 deploy-base /Users/gregmarkou/Jobs/code/github.com/ChainSafe/aragen
+> scripts/deploy-base
+
+Make sure you are on an empty chain running with the default mnemonic
+Deploying ENS instance
+ENS address missmatch. Please restart ganache by running:
+npm run start-ganache

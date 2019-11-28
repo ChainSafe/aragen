@@ -16,9 +16,7 @@ module.exports = async (
   } = {}
 ) => {
   const log = (...args) => {
-    if (verbose) {
       console.log(...args)
-    }
   }
 
   if (!owner) {

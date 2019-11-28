@@ -28,7 +28,7 @@ The Aragen package published to NPM contains a ganache snapshot that can be used
 
 By default it has set up:
 
-- ENS: `0x5f6f7e8cc7346a11ca2def8f827b7a0b612c56a1`
+- ENS: `0xfe9ee358b328663c22a2350b02c8ebacee5ab555`
 - APM: `ens.addr('aragonpm.eth')`
 - AragonID: `ens.owner('aragonid.eth')`
 - Aragon apps: As APM repos, e.g. `apm.getLatest('voting.aragonpm.eth')`
